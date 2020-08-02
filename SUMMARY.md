@@ -1,7 +1,7 @@
 * [Sobre](README.md)
-* [Git e GitHub]
+* Git e GitHub
   * [O que é Git?](github/git_e_github.md)
-  * [Instalação](.md)
+  * [Instalação](instalacaogit.md)
   * [O que é GitHub?](.md)
   * [Criando uma conta](md)
 * [Comandos](introducao.md)

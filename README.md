@@ -10,5 +10,5 @@ Tutorial vai ser um guia para que você possa obeter conhecimento para trabalhar
 
 ![Container](/images/introducao.png)
 
-Por: * [Tatieli Ramos](https://github.com/tatielirb) 
+Por: [Tatieli Ramos](https://github.com/tatielirb) 
 
