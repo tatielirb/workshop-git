@@ -13,15 +13,15 @@ A instalação vai depender do sistema operacional de sua maquina:
 
 Apos fazer dawload do instalador, execute :
 E vamos do nosso famose Next
-![Container](../images/instalacao/passo1.png)
-![Container](../images/instalacao/passo2.png)
-![Container](../images/instalacao/passo3.png)
-![Container](../images/instalacao/passo4.png)
-![Container](../images/instalacao/passo5.png)
-![Container](../images/instalacao/passo6.png)
-![Container](../images/instalacao/passo7.png)
-![Container](../images/instalacao/passo8.png)
+![Passo 1](../images/github/instalacao/passo1.png)
+![Passo 2](../images/github/instalacao/passo2.png)
+![Passo 3](../images/github/instalacao/passo3.png)
+![Passo 4](../images/github/instalacao/passo4.png)
+![Passo 5](../images/github/instalacao/passo5.png)
+![Passo 6](../images/github/instalacao/passo6.png)
+![Passo 7](../images/github/instalacao/passo7.png)
+![Passo 8](../images/github/instalacao/passo8.png)
 
 Ao final da instalação vocês vai ter configurado seu git e terminal na sua maquina.
 
-![Container](../images/instalacao/terminal.png)
+![Terminal](../images/github/instalacao/terminal.png)
