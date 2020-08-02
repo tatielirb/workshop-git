@@ -1,1 +1,1 @@
-# workshop-git
+# Workshop de Git - Tutorial
