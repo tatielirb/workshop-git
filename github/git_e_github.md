@@ -7,4 +7,4 @@ Usado principalmente desenvolvimento de software, para criar todo o histórico d
 Mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
 
 
-![Container](/images/oqueegit/gitlogo.png)
+![Container](../images/images/oqueegit/gitlogo.png)

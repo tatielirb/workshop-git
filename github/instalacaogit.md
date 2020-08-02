@@ -12,16 +12,16 @@ A instalação vai depender do sistema operacional de sua maquina:
 ### Instalação no Windows
 
 Apos fazer dawload do instalador, execute :
-E vamos do nosso famoses Next
-![Container](/images/instalacao/passo1.png)
-![Container](/images/instalacao/passo2.png)
-![Container](/images/instalacao/passo3.png)
-![Container](/images/instalacao/passo4.png)
-![Container](/images/instalacao/passo5.png)
-![Container](/images/instalacao/passo6.png)
-![Container](/images/instalacao/passo7.png)
-![Container](/images/instalacao/passo8.png)
+E vamos do nosso famose Next
+![Container](../images/instalacao/passo1.png)
+![Container](../images/instalacao/passo2.png)
+![Container](../images/instalacao/passo3.png)
+![Container](../images/instalacao/passo4.png)
+![Container](../images/instalacao/passo5.png)
+![Container](../images/instalacao/passo6.png)
+![Container](../images/instalacao/passo7.png)
+![Container](../images/instalacao/passo8.png)
 
 Ao final da instalação vocês vai ter configurado seu git e terminal na sua maquina.
 
-![Container](/images/instalacao/terminal.png)
+![Container](../images/instalacao/terminal.png)
