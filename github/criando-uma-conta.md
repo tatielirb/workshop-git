@@ -8,8 +8,8 @@
 3 Preencha os campos com:
 * Username: Lembrese que esse user vai ser seu mais movo amiges, por isso escolha com sabedoria. Uma dica é
 usar o seu nome e as iniciais do seu sobrenome.
-* Email address: Utilizei sempre um e-mail valido, pois você vai precisar confirmar sua conta.
-* Password: use sempre uma senha forte, o proprio sistema não permite senhas muito faceis.
+* Email address: Utilizei sempre um e-mail valido e que você tenha acesso, pois você vai precisar confirmar sua conta.
+* Password: use sempre uma senha forte, o proprio site não permite senhas muito faceis.
 
 ![Preenchendo os dados](../images/github/criando-conta/passo2.png)
 
@@ -21,11 +21,11 @@ usar o seu nome e as iniciais do seu sobrenome.
 
 ![Verificando e criando conta](../images/github/criando-conta/passo4.png)
 
-6 Não esqueça de vaerificar o seu e-mail, se lembra que falei de usar um e-mail valido :D :
+6 Não esqueça de verificar o seu e-mail, se lembra que falei de usar um e-mail valido :D :
 
 ![Verificando e criando conta](../images/github/criando-conta/passo5.png)
 
-7 Apos a confirmação vai parecer essa tela, você pode fazer uma das opções ou simplesmente Pular:
+7 Apos a confirmação vai aparecer essa tela, você pode fazer uma das opções ou simplesmente Pular:
 
 ![Verificando e criando conta](../images/github/criando-conta/passo6.png)
 
