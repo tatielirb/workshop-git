@@ -31,6 +31,6 @@ E vamos do nosso famose Next
 
 ![Passo 8](../images/github/instalacaogit/passo8.png)
 
-Ao final da instalação vocês vai ter configurado seu git e terminal na sua maquina.
+Ao final da instalação vamos ter configurado o git e o terminal na sua maquina.
 
 ![Terminal](../images/github/instalacaogit/terminal.png)

@@ -2,7 +2,7 @@
 
 O Github é um serviço online de hospedagem de repositórios Git ou conhecidos por projetos nos termos do git. Com ele podemos manter todos nossos commits e ramos sincronizados entre os membros do time.
 
-[GitHub](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) 
+[GitHub](https://github.com/) 
 
 ![Logo do GitHub](../images/github/oqueegit/logo.png)
 
