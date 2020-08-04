@@ -3,6 +3,7 @@
 1 Vamos acessar o site do [GitHub](https://github.com/)
 
 2 Clique em **SIGN UP** : 
+
 ![SIGN UP](../images/github/criando-conta/passo1.png)
 
 3 Preencha os campos com:
