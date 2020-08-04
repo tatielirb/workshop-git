@@ -32,3 +32,8 @@ usar o seu nome e as iniciais do seu sobrenome.
 
 Prontinho temos a nossa conta \o/
 
+![Prontoooooo](../images/github/criando-conta/passo.png)
+
+Curiosidade: Você sabia que o mascote do GitHub é polvo-gato e seu nome è Octocat, e que você pode criar uma versão personalizada?
+
+[GitHub my octocat](https://myoctocat.com/build-your-octocat/)
