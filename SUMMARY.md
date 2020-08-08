@@ -10,7 +10,7 @@
   * [Obtenha um Repositório (Clone)](comandos/clone.md)
   * [Adicionar (add)](comandos/add.md)
   * [Confirmar (Commit)](comandos/commit.md)
-  * [Enviando Alterações](comandos/push.md)
+  * [Enviando Alterações(Push)](comandos/push.md)
   * [Ramificando (Checkout)](comandos/checkout.md)
   * [Atualizar (Pull)](comandos/pull.md)
   * [Mesclar (merge)](comandos/merge.md)
