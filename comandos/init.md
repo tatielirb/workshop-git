@@ -1,8 +1,8 @@
-### Novo Repositório (init)
+## Novo Repositório (init)
 
 Nessa capítulo vamos aprender a criar um repositório para o nosso projeto.
 
-#### Criando nossa pasta
+### Criando nossa pasta
 Vamos criar uma nova pasta em um local do seu computador chamada *meu-primeire-repo*.
 
 Use os comandos `mkdir` no seu terminal
@@ -16,7 +16,7 @@ meu-primeire-repo/
 ```
 ![Terminal com resultado dos comandos](../images/comandos/init/criando-pasta.png)
 
-#### Vamos fazer um init por linha de código
+### Vamos fazer um init por linha de código
 
 Vamos entrar na nossa pasta, você pode fazer isso por linha de comando `cd meu-primeire-repo` ou por área gráfica.
 

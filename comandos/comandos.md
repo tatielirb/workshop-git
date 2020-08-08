@@ -1,4 +1,4 @@
-### Comandos
+## Comandos
 
 Após nossa instalação do git e nossa criação da conta no github, vamos aprender comandos básicos, mais muito importantes para o nosso dia a dia.
 

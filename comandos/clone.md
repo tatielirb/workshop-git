@@ -1,8 +1,8 @@
-### Obtenha um Repositório (Clone)
+## Obtenha um Repositório (Clone)
 
 Neste capítulo, vamos aprender a baixar um repositório para a nossa máquina. Essa funcionalidade é chamada de **clone**, então vamos clonar um repositório.
 
-#### Clonando o repositório via Interface
+### Clonando o repositório via Interface
 
 Para fazer o clone via a interface do github, vá ao repositório que você qquer clonar, ao lado direito na telavai ter um botão **Code**, clique e ele vai abrir uma dropdown com algumas opções.
 
@@ -18,7 +18,7 @@ Para fazer o clone via a interface do github, vá ao repositório que você qque
 ![Gif mostrando as opções de fazer clone](../images/comandos/clone/clone.gif)
 
 
-#### Clonando o repositório via linha de código
+### Clonando o repositório via linha de código
 
 Para clonar via linha de código vamos usar o comando `git clone <link copiado>`.
 
