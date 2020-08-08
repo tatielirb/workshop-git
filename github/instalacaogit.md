@@ -1,6 +1,6 @@
 ## Instalando o Git!
 
-A instalação vai depender do sistema operacional de sua maquina:
+A instalação vai depender do sistema operacional de sua máquina:
 
 [Git para OSX](https://git-scm.com/download/mac) 
 
@@ -11,9 +11,9 @@ A instalação vai depender do sistema operacional de sua maquina:
 
 ### Instalação no Windows
 
-Apos fazer dawload do instalador, execute :
+Após fazer download do instalador, execute :
 
-E vamos do nosso famose Next
+E vamos do nosso famose Next:
 
 ![Passo 1](../images/github/instalacaogit/passo1.png)
 
@@ -31,6 +31,6 @@ E vamos do nosso famose Next
 
 ![Passo 8](../images/github/instalacaogit/passo8.png)
 
-Ao final da instalação vamos ter configurado o git e o terminal na sua maquina.
+Ao final da instalação vamos ter configurado o git e o terminal na sua máquina.
 
 ![Terminal](../images/github/instalacaogit/terminal.png)

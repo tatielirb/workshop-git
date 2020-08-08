@@ -9,7 +9,7 @@ O Github é um serviço online de hospedagem de repositórios Git ou conhecidos 
 
 ### Mas só existe o GitHub?
 
-Além do Github temos outros serviço de hopedagem do Git como : 
+Além do Github temos outros serviço de hospedagem do Git como : 
 logo.png
 
 #### Bitbucket 
