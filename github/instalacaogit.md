@@ -34,3 +34,11 @@ E vamos do nosso famose Next:
 Ao final da instalação vamos ter configurado o git e o terminal na sua máquina.
 
 ![Terminal](../images/github/instalacaogit/terminal.png)
+
+Após realizar a instalação você pode executar o comando `git --version` no seu terminal para identificar se tudo ocorreu bem.
+
+**Esse será nosse resultado**
+```
+C:\Users\userdoseupc> git --version
+git version 2.28.0.windows.1
+```

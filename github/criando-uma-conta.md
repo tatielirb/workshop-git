@@ -37,4 +37,4 @@ Prontinho temos a nossa conta \o/
 
 Curiosidade: Você sabia que o mascote do GitHub é polvo-gato e seu nome è Octocat, e que você pode criar uma versão personalizada?
 
-[GitHub my octocat](https://myoctocat.com/build-your-octocat/)
+[Verificando a versão do Git](https://myoctocat.com/build-your-octocat/)
