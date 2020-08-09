@@ -30,7 +30,7 @@ $ git branch -d <nome da branch>
 ```
 
 
-## Não estou visualizando minha branch no repositório
+### Não estou visualizando minha branch no repositório
 Sua branch só ficará disponível no seu repositório se for feito o processo de push.
 
 ```

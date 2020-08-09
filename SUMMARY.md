@@ -16,3 +16,4 @@
   * [Mesclar (merge)](comandos/merge.md)
   * [Sobrescrever (reset hard)](comandos/reset-hard.md)
   * [Mudanças (status)](comandos/status.md)
+* [Links](links.md)
