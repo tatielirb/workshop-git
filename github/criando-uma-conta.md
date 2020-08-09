@@ -7,7 +7,7 @@
 ![SIGN UP](../images/github/criando-conta/passo1.png)
 
 3 Preencha os campos com:
-* Username: Lembre-se que esse user vai ser seu mais novo amiges, por isso escolha com sabedoria. Uma dica é
+* Username: Lembre-se que esse user vai ser seu mais novo amigo, por isso escolha com sabedoria. Uma dica é
 usar o seu nome e as iniciais do seu sobrenome.
 * Email address: Utilizei sempre um e-mail válido e que você tenha acesso, pois você vai precisar confirmar sua conta.
 * Password: use sempre uma senha forte, o próprio site não permite senhas muito fáceis.

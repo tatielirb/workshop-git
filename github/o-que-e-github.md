@@ -19,7 +19,7 @@ logo.png
 
 
 #### GitLab 
-É um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros. 
+É um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. GitLab é similar ao GitHub, mas o GitLab permite que as pessoas desenvolvedoras armazenem o código em seus próprios servidores, ao invés de servidores de terceiros. 
 [GitLab](https://gitlab.com/explore) 
 
 Mas o nosso foco ness documentação será o GitHub.
