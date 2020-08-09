@@ -14,5 +14,3 @@ Se ao invés disso você deseja remover todas as alterações e commits locais, 
 $ git fetch origin
 $ git reset --hard origin/master
 ```
-
-
