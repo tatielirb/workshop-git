@@ -8,3 +8,5 @@ $ git commit -m "mensagem do que é essa alteração"
 ```
 
 Agora o arquivo é enviado para o HEAD, mas ainda não para o repositório remoto.
+
+Observação: nunca use acentos, caractetres especiais nas mensagens dos commit
